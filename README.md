@@ -60,6 +60,7 @@ url: <https://nsepy.xyz/>
 ```bash
 pip install nsepy
 ```
+
 ## Deployment
 
 To deploy this project run
